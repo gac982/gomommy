@@ -13,4 +13,4 @@ Simulator of the popular GoDaddy Web Pages registration service, with a limit of
 
 ---
 
-# [Pruebalo aqui](https://gac982.github.io/super-jackpot-game-app/ "demo")
+# [Pruebalo aqui](https://gac982.github.io/gomommy/ "demo")
